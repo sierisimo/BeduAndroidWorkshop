@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TODO Bedu</string>
+    <string name="hello">Hola amigo!</string>
+    <string name="given_clicks">Has dado %1$d clicks</string>
+</resources>

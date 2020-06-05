@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TODO Bedu</string>
+    <string name="hello">Hello friend!</string>
+    <string name="given_clicks">You have give %1$d clicks</string>
+</resources>
